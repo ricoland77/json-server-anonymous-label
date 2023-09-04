@@ -1,5 +1,9 @@
 {
-  "title": [{ "type": "Boutique" }],
+  "title": [
+    {
+      "type": "Boutique"
+    }
+  ],
   "description": {
     "articles": "Bienvenue sur notre boutique en ligne. Ici, vous pouvez acheter et payer directement sur Internet avec un accès sécurisé. Les œuvres musicales constituant notre catalogue sont déposées à la SACEM et protégées par les lois du Copyright en vigueur. « Toute représentation ou reproduction intégrale ou partielle faite sans le consentement de l’auteur ou de ses ayants droits ou ayants cause, est illicite » (Art. L 122-4 du Code de la Propriété Intellectuelle)."
   },
@@ -323,7 +327,12 @@
       "solde": "",
       "tva": "Hors TVA",
       "subscriber": "Prix pour les abonnés",
-      "titles": ["01. ", "02. ", "03. ", "…"],
+      "titles": [
+        "01. ",
+        "02. ",
+        "03. ",
+        "…"
+      ],
       "availability": "",
       "copyright": "Anonymous Label - © Copyright 2020"
     },
@@ -508,7 +517,12 @@
       "solde": "",
       "tva": "Hors TVA",
       "subscriber": "Prix pour les abonnés",
-      "titles": ["01. ", "02. ", "03. ", "…"],
+      "titles": [
+        "01. ",
+        "02. ",
+        "03. ",
+        "…"
+      ],
       "availability": "",
       "copyright": "Anonymous Label - © Copyright 2015"
     }
@@ -529,8 +543,17 @@
       "subscriber": "Prix pour les abonnés",
       "thanks": "Nous vous remercions de votre visite !",
       "copyright": "Anonymous Label",
-      "colors": ["yellow"],
-      "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"]
+      "colors": [
+        "yellow"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ]
     },
     {
       "id": "p02",
@@ -547,8 +570,17 @@
       "subscriber": "Prix pour les abonnés",
       "thanks": "Nous vous remercions de votre visite !",
       "copyright": "Anonymous Label",
-      "colors": ["white"],
-      "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"]
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ]
     },
     {
       "id": "p03",
@@ -565,8 +597,17 @@
       "subscriber": "Prix pour les abonnés",
       "thanks": "Nous vous remercions de votre visite !",
       "copyright": "Anonymous Label",
-      "colors": ["white"],
-      "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"]
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ]
     },
     {
       "id": "p04",
@@ -583,8 +624,17 @@
       "subscriber": "Prix pour les abonnés",
       "thanks": "Nous vous remercions de votre visite !",
       "copyright": "Anonymous Label",
-      "colors": ["white"],
-      "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"]
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ]
     },
     {
       "id": "p05",
@@ -601,8 +651,18 @@
       "subscriber": "Prix pour les abonnés",
       "thanks": "Nous vous remercions de votre visite !",
       "copyright": "Anonymous Label",
-      "colors": ["white", "darkBlue"],
-      "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"]
+      "colors": [
+        "white",
+        "darkBlue"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ]
     },
     {
       "id": "p06",
@@ -629,7 +689,14 @@
         "red",
         "yellow"
       ],
-      "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"]
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ]
     },
     {
       "id": "p07",
@@ -646,8 +713,17 @@
       "subscriber": "Prix pour les abonnés",
       "thanks": "Nous vous remercions de votre visite !",
       "copyright": "Anonymous Label",
-      "colors": ["black"],
-      "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"]
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ]
     }
   ],
   "goodies": [
@@ -661,8 +737,17 @@
       "artist": "Degy Le Resk.p",
       "name": "Comme un piaf",
       "collection": "Collection Degy Le Resk.p",
-      "colors": ["yellow"],
-      "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"],
+      "colors": [
+        "yellow"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
       "severalColors": "Un seul coloris : Jaune.",
       "question": "Pour toutes questions sur nos produits, n’hésitez pas à nous contacter :",
       "contact": "contactanonymouslabel@gmail.com",
@@ -684,8 +769,20 @@
       "artist": "Conçu pour durer",
       "name": "MARK",
       "collection": "Collection « Conçu pour durer MARK »",
-      "colors": ["white", "grey", "black", "brown"],
-      "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"],
+      "colors": [
+        "white",
+        "grey",
+        "black",
+        "brown"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
       "severalColors": "Plusieurs coloris : Blanc, gris, noir et bordeaux.",
       "question": "Pour toutes questions sur nos produits, n’hésitez pas à nous contacter :",
       "contact": "contactanonymouslabel@gmail.com",
@@ -707,8 +804,19 @@
       "artist": "Conçu pour durer",
       "name": "MARK",
       "collection": "Collection « Conçu pour durer MARK »",
-      "colors": ["lightGrey", "grey", "black"],
-      "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"],
+      "colors": [
+        "lightGrey",
+        "grey",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
       "severalColors": "Plusieurs coloris : Gris, gris foncé et noir.",
       "question": "Pour toutes questions sur nos produits, n’hésitez pas à nous contacter :",
       "contact": "contactanonymouslabel@gmail.com",
@@ -730,8 +838,19 @@
       "artist": "Conçu pour durer",
       "name": "MARK",
       "collection": "Collection « Conçu pour durer MARK »",
-      "colors": ["white", "grey", "black"],
-      "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"],
+      "colors": [
+        "white",
+        "grey",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
       "severalColors": "Plusieurs coloris : Blanc, gris et noir.",
       "question": "Pour toutes questions sur nos produits, n’hésitez pas à nous contacter :",
       "contact": "contactanonymouslabel@gmail.com",
@@ -769,7 +888,14 @@
         "red",
         "yellow"
       ],
-      "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
       "severalColors": "Plusieurs coloris : Blanc, gris, noir, bleu, bordeaux, rouge et jaune.",
       "question": "Pour toutes questions sur nos produits, n’hésitez pas à nous contacter :",
       "contact": "contactanonymouslabel@gmail.com",
@@ -808,7 +934,14 @@
         "red",
         "yellow"
       ],
-      "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
       "severalColors": "Plusieurs coloris : Blanc, gris, noir, bleu, bordeaux, rouge et jaune.",
       "question": "Pour toutes questions sur nos produits, n’hésitez pas à nous contacter :",
       "contact": "contactanonymouslabel@gmail.com",
@@ -840,7 +973,14 @@
         "red",
         "yellow"
       ],
-      "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
       "severalColors": "Plusieurs coloris : Blanc, gris, gris foncé, noir, bleu, bordeaux, rouge et jaune.",
       "thanks": "Nous vous remercions de votre visite !",
       "sign": "Anonymous Label",
@@ -859,8 +999,19 @@
       "artist": "Berlan",
       "name": "Revolverbe",
       "collection": "Collection « Revolverbe - Vol. 1 »",
-      "colors": ["lightGrey", "grey", "black"],
-      "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"],
+      "colors": [
+        "lightGrey",
+        "grey",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
       "severalColors": "Plusieurs coloris : Gris, gris foncé et noir.",
       "thanks": "Nous vous remercions de votre visite !",
       "sign": "Anonymous Label",
@@ -888,7 +1039,14 @@
         "red",
         "yellow"
       ],
-      "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
       "severalColors": "Plusieurs coloris : Blanc, gris, noir, bleu, bordeaux, rouge et jaune.",
       "thanks": "Nous vous remercions de votre visite !",
       "sign": "Anonymous Label",
